@@ -1,0 +1,141 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A Full account of a bold and barbarous murther committed on the body of William Culliford Esq. by George Cruff, in Water-Lane near the Custom-House in London, on Friday the 8th day of August, 1684, in the open street between the hours of 11 and 12 of the same day as also the relation of a gentleman of qualities groom, who was shot by a life-guardman upon Munday the 4th of this instant, in the town of Kensington : together with the further account of a lamentable fire that happened in a town call'd Church-Hill, within two miles of Chipping-Norton, in Oxfordsheire [sic], on Wednesday the 30th of July, last.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1684</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 8 KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A84949</idno>
+            <idno type="STC">Wing F2261A</idno>
+            <idno type="STC">ESTC R43856</idno>
+            <idno type="EEBO-CITATION">42475450</idno>
+            <idno type="OCLC">ocm 42475450</idno>
+            <idno type="VID">151141</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A84949)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 151141)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2246:1)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A Full account of a bold and barbarous murther committed on the body of William Culliford Esq. by George Cruff, in Water-Lane near the Custom-House in London, on Friday the 8th day of August, 1684, in the open street between the hours of 11 and 12 of the same day as also the relation of a gentleman of qualities groom, who was shot by a life-guardman upon Munday the 4th of this instant, in the town of Kensington : together with the further account of a lamentable fire that happened in a town call'd Church-Hill, within two miles of Chipping-Norton, in Oxfordsheire [sic], on Wednesday the 30th of July, last.</title>
+               </titleStmt>
+               <extent>1 sheet ([2] p.).   </extent>
+               <publicationStmt>
+                  <publisher>Printed by George Croom ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1684.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint from colophon.</note>
+                  <note>Reproduction of original in: Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Culliford, William, d. 1684.</term>
+               <term>Cruff, George, fl. 1684.</term>
+               <term>Murder --  England --  Early works to 1800.</term>
+               <term>Broadsides --  London (England) --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-08</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-08</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2013-08</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:151141:1" rendition="simple:additions"/>
+            <head>A Full ACCOUNT Of a Bold and Barbarous Murther Committed on the Body of William Culliford Eſq; BY George Cruff,</head>
+            <p>IN <hi>Water-Lane</hi> near the Cuſtom-Houſe <hi>London,</hi> on <hi>Friday</hi> the <hi>8th.</hi> day of <hi>Auguſt,</hi> 1684. in the open ſtreet between the hours of 11 and 12 of the ſame day.</p>
+            <p>As alſo The Relation of a Gentleman of Qualities Groom, who was Shot by a Life-Guardman upon <hi>Munday</hi> the <hi>4th.</hi> of this Inſtant in the Town of <hi>Kenſington.</hi>
+            </p>
+            <p>TOGETHER With the further Account of a Lamentable Fire that happened in a Town call'd <hi>Church-Hill,</hi> within two Miles of <hi>Chipping-Norton,</hi> in <hi>Oxfordſheire,</hi> on <hi>Wedneſday</hi> the <hi>30th.</hi> of <hi>July,</hi> laſt.</p>
+            <p>THe depravity of Mans Nature is ſuch, that if God once Withdraws the aſſiſtance of his Grace and Spirit from him; No Action, tho the ſame in it ſelf be never ſo Horrid and Unnatural, but he is too prone to undertake, and go through with. An Inſtance of this kind, as rare perhaps, as any, the preſent or paſt Ages could afford; the Reader ſhall be ſatisfied with in the enſuing Page.</p>
+            <p>On <hi>Friday</hi> the <hi>8th.</hi> Day of <hi>August,</hi> 1684. <hi>William Cullifiord</hi> Eſq; a Gentleman of known Loyalty and Integrity to his Prince and Country, having had ſome Buſi<g ref="char:EOLhyphen"/>neſs at the <hi>Cuſtom. Houſe</hi> in <hi>London,</hi> as he came thence, and was going up the <hi>Hill</hi> in <hi>Water-lane,</hi> not far from the Poſt and Chain; he was followed by one <hi>George Cruffe</hi> (formerly in ſome Office belonging to the <hi>Cuſtom-Houſe,</hi> and ſince turned out for Miſdemeanours) till he came juſt againſt the <hi>Plummers</hi> Shop in the ſame <hi>Lane;</hi> where unperceived, the ſaid <hi>Cruff</hi> came up to him, and drawing out a <hi>Piſtol,</hi> ſud<g ref="char:EOLhyphen"/>denly Diſcharged upon him, and ſhot a brace of <hi>Bullets</hi> into his Body. The ſtrangeneſs of the Attempt, the ſame being at Noon-Day, and in ſo Publick a Place, was the Aſtoniſhment of all ſuch who beheld it; who came in Immediately to the Apprehenſion of the Criminal, but he ſeemed not at all Concerned thereat: and never ſo much as endeavoured his Eſcape: declaring that if the Action were a ſecond time to have been Committed, he would willingly and readily have undertaken the ſame. The Audacious Villain being thereupon taken into Cuſtody: Squire <hi>Culliford</hi> was carried into the <hi>Dolphin-Tavern,</hi> at the end of <hi>Mark-Lane;</hi> where likewiſe they brought the Malefactor.</p>
+            <pb facs="tcp:151141:2"/>
+            <p> Soon after which notice being givein hereof to the Worſhipful Sir <hi>John Buckworth,</hi> Knight and Alderman of the City of <hi>London,</hi> who was at the ſame time ſitting as Commiſſioner, in the <hi>Cuſtom Houſe</hi> he came to the <hi>Dolphin,</hi> and being one of the Juſtices of the Peace for <hi>London,</hi> he took the fellow nto Examination inquiring into the reaſon of ſo Barbarous an Attempt, which the fellow would not in the leaſt ex<g ref="char:EOLhyphen"/>tenuate, but boldly declared that he did and had long ſince intended the Fact, which he was not at all ſorry for, pretending that the Squire had wronged or otherwiſe injured him in the Diſplacing him from his former Imployment and Lively-hood, in the World: carrying it all the while ſo unconcerned, that all Perſons ſtood amazed thereat: Nay ſuch a Monſtrous height of Impudence poſſeſt the execrable and abomi<g ref="char:EOLhyphen"/>nable wretch, that he declared if any other perſon had done him the like injury, and his liberty were reſtored him he would in like manner take revenge upon him for ſo doing, adding, that nothing troubled him but that he had not ſeen the Gentleman Dead before his Confinement in <hi>Newgate,</hi> whether he was forthwith Committed and where he now remains, to conſider of the Villany he ſtands Guilty of; which certain<g ref="char:EOLhyphen"/>ly is one of the moſt Bare-Faced and audacious Crimes we have read or heard of: Not only in that the ſame was done at Mid-day but alſo in the Publick ſtreet without either hope or intention of Eſcape or Pardon, ſo that we may juſtly reckon this a ſecond <hi>Felton,</hi> who out of a like Spirit of forethought Malice and revenge Murdered the late Duke of <hi>Buckingham,</hi> and who in Point of Honour owned and bragg'd of his Villany to the very place of Execution: whether in due time the juſtice of Nation, will undoubtedly bring all ſuch Criminalls.</p>
+            <p>But tho the Example of ſuch Mens Faults are every Day ſet as a Warning to others, yet is the Temptations of the <hi>Devil</hi> ſo prevalent on too many; that ſeldom a Week but affords us more than one Inſtance of this kind, as this hath done. For that one <hi>Monday</hi> laſt at <hi>Kenſington</hi> in the County of <hi>Middleſex,</hi> a Perſon of Qual<g ref="char:EOLhyphen"/>lity's Groom being Rideing out of Town, he wrs met by a <hi>Lifeguard-Man,</hi> in the middle of the Town, near the <hi>Red-Lyon-Inn,</hi> and ſome Difference hapning between them about the Way, they Quarreled, and ſeveral Blows were exchanged between them, till at laſt the Groom ſtruck him over the Face with his Whip ſo ſevere a Blow that the Blood guſh't out, which put the <hi>Lifeguard-Man</hi> into ſo great a Paſſion that immediately drawing out one of his <hi>Piſtols,</hi> he clap'd the ſame to the Temples, of the Groom: and tho as ſome believe the ſame was only Charged w<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>th Powder, yet the ſame had ſuch effect upon him that, both his Eyes were Shot out, and made ſo great a Wound in his Head that when the <hi>Chyrurgeon</hi> came to Probe it, he could turn his Fingure therein; ſo that all People looked on the ſame as Mortal. The Groom that was thus Wounded was carried into the <hi>Red-Lyon-Inn</hi> aforeſaid: But the <hi>Lifeguard-man</hi> ſeeing him fall, being well Mounted, made away with all the ſpeed he could; and tho ſeveral People purſued him, Eſcaped as far as <hi>Chertſea,</hi> on the otherſide of the Water, in the County of <hi>Surrey;</hi> where it was found that he had left his Horſe, and had beta<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> himſelf either to ſome private reception in the Town, or gone further a field, out of the reach of the Hue and Cry: ſo that he is not taken, nor hath as yet Rendred himſelf up to Juſtice. But when Blood Crys for Vengeance, as in this caſe, rare it is but Providence in due time regards the voice thereof, and brings a due and Condign Puniſhment on his Head, that unlawfully and Murderouſly ſheds the ſame,</p>
+            <p>Having given you theſe 2 Relations, I thought fit to ſubjoyn the further account of a certain <hi>Fire,</hi> that hapned at a little Town call'd <hi>Church-hill,</hi> near <hi>Chipping-Norton</hi> in <hi>Oxford-ſheire;</hi> which fell out by the Covetuoſneſs of an Old Woman, who to ſave the expence of <hi>Chimney-Money:</hi> and being by Trade a <hi>Baker:</hi> had made a Funnel from her <hi>Oven</hi> into another <hi>Chimney:</hi> which tho ſhe had notice of, and twice before had like io have Burnt the Houſe; yet did ſhe not alter the ſame; till on <hi>Wedneſday</hi> the <hi>30th.</hi> of <hi>July</hi> laſt, about four or five of the Clock in the After<g ref="char:EOLhyphen"/>noon a <hi>Fire</hi> Broke out, which continued ſo fierce, that in the ſpace of four Hours the ſame Conſumed Twenty Habitations, beſides Barns and out Houſes in the ſtop<g ref="char:EOLhyphen"/>ping whereof, four People were Kill'd two by falling of the Ruines, and two Burnt.</p>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>LONDON,</hi> Printed by <hi>George Croom,</hi> at the <hi>Blue-Ball,</hi> over againſt <hi>Baynard'</hi>s <hi>Caſtle,</hi> in <hi>Thames-ſtreet,</hi> 1684.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
